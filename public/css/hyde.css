@@ -46,8 +46,8 @@ html {
 }
 
 @font-face {
-  font-family: 'silks-font';
-  src: url('fonts/slkscre'), format('ttf');
+    font-family: "silks-font";
+    src:url("fonts/slkscre.ttf");
 }
 
 /*
