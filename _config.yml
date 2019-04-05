@@ -8,7 +8,8 @@ permalink:        pretty
 # Setup
 title:            Balancing Games
 tagline:          'Or atleast trying to'
-description:      'I'm William Kavanagh, a Computer Science Ph.D. student at the
+description: >
+'I'm William Kavanagh, a Computer Science Ph.D. student at the
 University of Glasgow in the Formal Methods, Theory and Algorithms group. For my
 research I am looking at making games fun using novel techniques. Outside of work
 I am player of games. Currently I'm playing: etc'
