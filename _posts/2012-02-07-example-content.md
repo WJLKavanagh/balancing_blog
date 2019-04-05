@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: {{site.url}}{{site.baseurl}}hidden_area_lol_2
+permalink: /hidden_area_lol_2/
 title: Example content
 hidden: true
 ---

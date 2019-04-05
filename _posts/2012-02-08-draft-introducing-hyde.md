@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: {{site.url}}{{site.baseurl}}hidden_area_lol_3
+permalink: /hidden_area_lol_3/
 title: Introducing Hyde
 hidden: true
 ---
