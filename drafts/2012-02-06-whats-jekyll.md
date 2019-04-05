@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: {{site.url}}{{site.baseurl}}hidden_area_lol_1
 title: What's Jekyll?
 ---
 
