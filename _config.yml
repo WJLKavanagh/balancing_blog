@@ -21,6 +21,7 @@ author:
   url:            https://twitter.com/mdo
 
 paginate:         5
+disqusShortname: spf13
 
 # Custom vars
 version:          2.1.0
