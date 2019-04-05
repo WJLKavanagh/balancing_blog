@@ -2,6 +2,7 @@
 layout: post
 permalink: {{site.url}}{{site.baseurl}}hidden_area_lol_3
 title: Introducing Hyde
+hidden: true
 ---
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
