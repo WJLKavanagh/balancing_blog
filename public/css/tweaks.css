@@ -1,0 +1,11 @@
+/* replace with your fonts */
+
+/* general text */
+html {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+}
+
+/* sidebar name text (not links) */
+.sidebar-about h1 {
+  font-family: "silks-font";
+}
