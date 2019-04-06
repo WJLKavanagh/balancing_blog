@@ -5,6 +5,8 @@ title: About
 
 <h1> TODO </h1>
 
+I will get around to changing this, but for now here's the stub from Hyde.
+
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
