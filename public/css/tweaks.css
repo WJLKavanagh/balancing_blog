@@ -8,4 +8,9 @@ html {
 /* sidebar name text (not links) */
 .sidebar-about h1 {
   font-family: "silks-font";
+  font-size: 12em;
+}
+
+.leads {
+  font-family: "silks-font";
 }
