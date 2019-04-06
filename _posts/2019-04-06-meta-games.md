@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Meta-game: What is it and where did it come from?
+title: 'The Meta-game: What is it and where did it come from?'
 hidden: false
 ---
 
