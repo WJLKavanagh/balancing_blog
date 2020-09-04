@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Meta-game: What is it and where did it come from?'
-hidden: false
+hidden: true
 ---
 
 I spoke to one of the lecturers I work with and tried to explain what a meta-game is to him once.
