@@ -12,7 +12,7 @@ tagline:          'Or atleast trying to'
 description:      'Why balance is important, how games are balanced and why game balancing is a fun problem.'
 
 url:              https://WJLKavanagh.github.io
-baseurl:          /balancing_blog/
+baseurl:          /
 
 author:
   name:           'William Kavanagh'
