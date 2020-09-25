@@ -11,12 +11,12 @@ title:            Balancing Games
 tagline:          'Or atleast trying to'
 description:      'Why balance is important, how games are balanced and why game balancing is a fun problem.'
 
-url:              https://WJLKavanagh.github.io
+url:              https://balancing.games/
 baseurl:          /
 
 author:
   name:           'William Kavanagh'
-  url:            https://twitter.com/BKavanagh1
+  url:            https://twitter.com/william_kav
 
 paginate:         5
 disqusShortname: spf13
