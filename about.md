@@ -1,23 +1,19 @@
 ---
 layout: page
-title: About
+title: Who am I? What is this? And why do you care?
 ---
 
-# Who am I? What is this? And why do you care?
+I'm William Kavanagh (@william_kav), a [Computer Science PhD student at the University of Glasgow](https://www.gla.ac.uk/schools/computing/researchstudents/williamkavanagh/) in the Formal Methods, Theory and Algorithms group supervised, by [Dr Alice Miller](https://www.gla.ac.uk/schools/computing/staff/alicemiller/). I look at making games fun using model checking techniques for my research. Outside of work I am a player of games, and have been since age 4 (thanks Dad). I love games, I think game balancing is a really fun problem that is a good introduction to the world of computer science and one day I might try and write a book on it. For now, I'll settle for a blog, like it's 2003. 
 
-I'm William Kavanagh (@william_kav), a [Computer Science PhD student at the University of Glasgow](https://www.gla.ac.uk/schools/computing/researchstudents/williamkavanagh/) in the Formal Methods, Theory and Algorithms group supervised, by [Dr Alice Miller](https://www.gla.ac.uk/schools/computing/staff/alicemiller/). I look at making games fun using model checking techniques for my research. Outside of work I am a player of games, and have been since age 4 (thanks Dad). I love games, I think game balancing is a really fun problem that is a good introduction to fascinating computer science questions and one day I might try and write a book on it. For now, I'll settle for a blog post.
-
-In academia, my acheivements are somewhat limited. But I'm a Ph.D. student at a great university in a brilliant department and after over a year they haven't found me out quite yet. I went to the inaugural [AI and Games summer school](https://school.gameaibook.org/) paid for by SICSA and others (thanks for that by the way).
-
-As a player of games however, my acheivements are ... also somewhat limited, but to give you an idea, here are some of the things I've done:
+Here are my many gaming achievements to set out my credentials:
 
  * Caught all 150 original Pok\'emon in Pok\'emon Blue (look out for me writing about these games a lot!),
  * Played Call of Duty: Modern Warfare semi-professionally as a teenager
  * Created [a guild on Elder Scrolls Online](https://snowborn.shivtr.com/) in 2016 that is still going today, over three years after I stopped playing the game,
- * Ran several well-intentioned, but poorly executed D&D campaigns,
+ * Ran several well-intentioned, but poorly executed TTRPGs campaigns,
+ * Watched the entirety of [Joseph Anderson's Witcher critiques](https://www.youtube.com/watch?v=NtrAx-rVgco)
  * Bought Gloomhaven and managed to unpack the box, play it and then repack the box somewhat tidily! This is something I am still proud of every time we play,
  * Raided in Lord of the Rings: Online rather than be sociable or do well in my GCSEs aged about 15,
- * Having played FIFA every year for over ten years now, I have made it past January in career mode for the third time just this year,
  * I got pretty far through Super Hexagon.
 
 ### Why listen to me? What have I got to say?
