@@ -3,37 +3,6 @@ layout: page
 title: About
 ---
 
-<!-- <h1> TODO </h1>
-
-I will get around to changing this, but for now here's the stub from Hyde.
-
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading! -->
-
-
 # Who am I? What is this? And why do you care?
 
 I'm William Kavanagh (@william_kav), a [Computer Science PhD student at the University of Glasgow](https://www.gla.ac.uk/schools/computing/researchstudents/williamkavanagh/) in the Formal Methods, Theory and Algorithms group supervised, by [Dr Alice Miller](https://www.gla.ac.uk/schools/computing/staff/alicemiller/). I look at making games fun using model checking techniques for my research. Outside of work I am a player of games, and have been since age 4 (thanks Dad). I love games, I think game balancing is a really fun problem that is a good introduction to fascinating computer science questions and one day I might try and write a book on it. For now, I'll settle for a blog post.
